@@ -1,0 +1,7 @@
+{
+     "url": "https://YOUR_USERNAME.github.io/ton-bot-manifest",
+     "name": "TON Trade Bot",
+     "iconUrl": "https://YOUR_USERNAME.github.io/ton-bot-manifest/icon.png",
+     "termsOfUseUrl": "https://YOUR_USERNAME.github.io/ton-bot-manifest/terms.html",
+     "privacyPolicyUrl": "https://YOUR_USERNAME.github.io/ton-bot-manifest/privacy.html"
+   }
